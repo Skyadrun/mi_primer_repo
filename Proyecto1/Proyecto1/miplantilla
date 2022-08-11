@@ -1,0 +1,7 @@
+<html>
+    <body>
+        <h2>
+            Hola alumnos estamos viendo nuestra primera plantilla
+        </h2>
+    </body>
+</html>""" % fecha_actual
